@@ -1,0 +1,39 @@
+
+
+html,body{
+  height:100%;
+  width:100%;
+  font-size: 100%;
+}
+
+body{
+  background:rgba(255,55,75,0.5);
+  color:green;
+  padding:2%; /*sangria*/
+  font-family: 'Ubuntu', sans-serif;
+  font-size:1em;
+}
+
+h1{
+  font-size:4em;
+}
+
+h2{
+  color:yellow;
+}
+
+div{
+  width: 500px;
+  max-width:80%;
+  padding:1em;
+  background:silver;
+  border:1px solid #ccc;
+  background:#fff;
+}
+
+img{
+  max-width:100%;
+  height:auto;
+}
+
+
